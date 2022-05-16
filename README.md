@@ -1,15 +1,8 @@
-# Basic Sample Hardhat Project
+# Hey Team Polygon
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+- This is my Polygon Interview Screening Task attempt for creating a ERC721 Token.
 
-Try running some of the following tasks:
+- I tried my best to complete this contract but I am only able to complete it partially.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Please have a look, 
+Thanks 
